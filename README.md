@@ -1,6 +1,7 @@
 # Curso de Python Completo para Iniciantes
 
-<img src="img/tiago_reis-modified.png" align="right"
+<img src="
+https://raw.githubusercontent.com/tiago-c-reis/curso_python/master/.github/tiago_reis-modified.png" align="right"
      alt="Automation & DS" width="150" height="150" />
 
 Repositório com código-fonte de todas as **vídeo-aulas** e **exercícios** do `Curso de Python Completo para Iniciantes` desenvolvido pelo Canal YouTube [Automation and Data Science](https://youtube.com/c/AutomationDataScience)
