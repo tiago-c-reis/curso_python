@@ -1,9 +1,15 @@
 # Python - Exercícios do Curso de Python Completo para Iniciantes
 #
-# video: https://www.youtube.com/watch?v=GZoqIWX-v6k&list=PLCI9CZ6VUaFkB2mRRHue3z_xzqbAHtpHS
+# video: https://youtu.be/GZoqIWX-v6k
 #
-# code: 00001
-#
+
+# Enunciado:
+# Considere a variável nome = 'Marie Curie'. Com base nesta variáveL:
+#     (a) Indique o primeiro e último caracter
+#     (b) Indique todos os caracteres de índice par
+#     (c) Revera a variável nome
+#     (d) Faça a alteração de 'Marie Curie' para 'Pierre Curier'
+
 
 nome = 'Marie Curie'
 
